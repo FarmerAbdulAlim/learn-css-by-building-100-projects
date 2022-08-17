@@ -1,1 +1,1 @@
-# mini-projects-to-learn-css
+# 10 CSS Projects for Beginners from easy to hard.
