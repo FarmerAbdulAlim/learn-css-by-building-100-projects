@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+      to right,
+      rgba(154, 218, 154, 0.5),
+      rgba(148, 144, 89, 0.5)
+    ),
+    url(./images/travel.jpg) no-repeat center center / cover;
+  font-family: "Righteous", cursive;
+  color: #fff;
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+}
