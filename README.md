@@ -1,17 +1,57 @@
-# 10 CSS Projects for Beginners from easy to hard.
+# 50 CSS Projects for Beginners from easy to hard.
 
-|                 **Project No.**                  |                                    **Project Name**                                    |                     **Live Demo**                      |
-| :----------------------------------------------: | :------------------------------------------------------------------------------------: | :----------------------------------------------------: |
-|          [1](#01-responsive-image-grid)          |                   [Responsive Image Grid](#01-responsive-image-grid)                   | [Live Demo](https://responsive-image-grid.vercel.app/) |
-| [2](#02-a-beautiful-page-using-linear-gradients) | [A Beautiful Page Using Linear Gradients](#02-a-beautiful-page-using-linear-gradients) |   [Live Demo](https://linear-gradients.vercel.app/)    |
-|     [3](#03-a-beautiful-animated-login-form)     |         [A Beautiful Animated Login Form](#03-a-beautiful-animated-login-form)         |                                                        |
-|                        4                         |                                                                                        |                                                        |
-|                        5                         |                                                                                        |                                                        |
-|                        6                         |                                                                                        |                                                        |
-|                        7                         |                                                                                        |                                                        |
-|                        8                         |                                                                                        |                                                        |
-|                        9                         |                                                                                        |                                                        |
-|                        10                        |                                                                                        |                                                        |
+|                    Project No.                    |                                      Project Name                                      | Video Explanation |                               Live Demo                               |
+| :-----------------------------------------------: | :------------------------------------------------------------------------------------: | :---------------: | :-------------------------------------------------------------------: |
+|          [01](#01-responsive-image-grid)          |                   [Responsive Image Grid](#01-responsive-image-grid)                   |     Watch Now     |        [Live Demo](https://responsive-image-grid.vercel.app/)         |
+| [02](#02-a-beautiful-page-using-linear-gradients) | [A Beautiful Page Using Linear Gradients](#02-a-beautiful-page-using-linear-gradients) |     Watch Now     |           [Live Demo](https://linear-gradients.vercel.app/)           |
+|     [03](#03-a-beautiful-animated-login-form)     |         [A Beautiful Animated Login Form](#03-a-beautiful-animated-login-form)         |     Watch Now     | [Live Demo](https://travelerabdulalim.github.io/animated-login-form/) |
+|                        04                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        05                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        06                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        07                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        08                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        09                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        10                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        11                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        12                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        13                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        14                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        15                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        16                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        17                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        18                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        19                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        20                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        21                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        22                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        23                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        24                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        25                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        26                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        27                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        28                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        29                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        30                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        31                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        32                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        33                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        34                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        35                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        36                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        37                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        38                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        39                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        40                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        41                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        42                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        43                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        44                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        45                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        46                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        47                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        48                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        49                         |                                                                                        |     Watch Now     |                               Live Demo                               |
+|                        50                         |                                                                                        |     Watch Now     |                               Live Demo                               |
 
 # 01. Responsive Image Grid
 
@@ -44,7 +84,7 @@ Coming Soon...
 
 [Project Source Codes](./01-responsive-image-grid/)
 
-[<h3 align="center">Go to Top</h3>](#10-css-projects-for-beginners-from-easy-to-hard)
+[<h3 align="center">Go to Top</h3>](#50-css-projects-for-beginners-from-easy-to-hard)
 
 # 02. A Beautiful Page Using Linear Gradients
 
@@ -77,7 +117,7 @@ Coming Soon...
 
 [Project Source Codes](./02-a-beautiful-page-using-linear-gradient/)
 
-[<h3 align="center">Go to Top</h3>](#10-css-projects-for-beginners-from-easy-to-hard)
+[<h3 align="center">Go to Top</h3>](#50-css-projects-for-beginners-from-easy-to-hard)
 
 # 03. A Beautiful Animated Login Form
 
@@ -110,4 +150,4 @@ Coming Soon...
 
 [Project Source Codes](./03-a-beautiful-animated-login-form/)
 
-[<h3 align="center">Go to Top</h3>](#10-css-projects-for-beginners-from-easy-to-hard)
+[<h3 align="center">Go to Top</h3>](#50-css-projects-for-beginners-from-easy-to-hard)
