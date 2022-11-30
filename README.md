@@ -60,7 +60,7 @@
 ### You Will Learn
 
 - CSS Grid Layout
-- How to make a collection of images responsive.
+- How to do responsive of a collection of images.
 
 ### Project Description
 
